@@ -9,4 +9,4 @@ Departmental Store.
 
 * I used Spring MVC framework in Java for this project.
 * I used third normal form to reduce redundancy in database.
-* **Exposure:** MySQL, Spring MVC, Java, HTML, CSS, JavaScript, Database Design techniques
+* **Framework, Tools, Language and Techniques used:** MySQL, Spring MVC, Hibernate, Java, HTML, CSS, JavaScript, Database Design techniques
